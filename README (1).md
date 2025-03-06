@@ -1,4 +1,4 @@
-# concurrent-programming
+
 # Programación Concurrente
 
 ## Definición y Fundamentos
@@ -129,6 +129,9 @@ Se crean cuatro hilos (`Thread`) que ejecutarán la función `ejecutar_tareas`.
 El mensaje "Todas las tareas han terminado." se imprime cuando todas las tareas han finalizado.
 
 En resumen, el código implementa una pequeña simulación de procesamiento concurrente de tareas utilizando hilos. Cada hilo toma tareas de la cola y las ejecuta. Las tareas incluyen cálculos matemáticos (como encontrar un número primo o calcular una raíz cuadrada) y la visualización de barras de progreso durante estos cálculos. Las operaciones se distribuyen entre los hilos para ejecutarse de manera concurrente, lo que acelera el proceso en sistemas con múltiples núcleos de CPU.
+
+## Repositorio
+Puedes encontrar el código en el siguiente repositorio:https://github.com/SANTIORTIZ231232/PARCIAL-3.git
 
 ## Repositorio
 Puedes encontrar el código en el siguiente repositorio: [Github](https://github.com/Jecgarcia/concurrent-programming)
